@@ -3,15 +3,17 @@
 | Task |   Estimated Time | Notes |
 |------|-----------------|-------|
 |Design controller class|3 hours| |
-|Unit testing|1 hour||
+|Unit testing|3 hours||
 |Test coverage|< 1 hour| Using EclEmma as coverage tool |
 |Team version control|3 days| |
-|Code-review checklist|< 1 hour||
+|Code-review checklist|3 hours|
 |**TOTAL**|4 days|*estimated*|
 
-These estimates were based on previous projects that I have completed. 
+To come up with these estimates, I gauged the relative difficulty and length of each task and how they correspond with each other. For example, version control was the longest as it involves every step of the project, whereas unit testing is done for different individual steps.
+It is important to come up with estimates for a sprint backlog as it helps to determine how much work is needed in each sprint. By dividing up items into smaller tasks, it is easier to assess how heavy the workload is going to be and therefore increases the likelihood of finishing on time. Backlogs also help teams to coordinate their work.
 
 # Test-Driven development
+
 
 
 
